@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    font-family: "arial", sans-serif;
+    background-color: lightblue;
+    color: rgb(54, 13, 59);
+}
+
+ul , ol {
+   list-style-position: inside;
+   text-align: left;
+}
+
+ .ingredients {
+    
+    font-style:italic;
+    padding-left: 25%;
+}
+
+.centered {
+    margin: auto;
+    width: 30%;
+    border: solid;
+    border-radius: 20px;
+    background-color: bisque;
+    
+}
+
+img {
+    border: solid 8px rgb(16, 78, 97);
+    border-radius: 50px;
+}
+    
